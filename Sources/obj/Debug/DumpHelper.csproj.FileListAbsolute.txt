@@ -1,0 +1,7 @@
+C:\Users\steal\source\repos\DumpHelper\DumpHelper\bin\Debug\DumpHelper.exe.config
+C:\Users\steal\source\repos\DumpHelper\DumpHelper\bin\Debug\DumpHelper.exe
+C:\Users\steal\source\repos\DumpHelper\DumpHelper\bin\Debug\DumpHelper.pdb
+C:\Users\steal\source\repos\DumpHelper\DumpHelper\obj\Debug\DumpHelper.csprojAssemblyReference.cache
+C:\Users\steal\source\repos\DumpHelper\DumpHelper\obj\Debug\DumpHelper.csproj.CoreCompileInputs.cache
+C:\Users\steal\source\repos\DumpHelper\DumpHelper\obj\Debug\DumpHelper.exe
+C:\Users\steal\source\repos\DumpHelper\DumpHelper\obj\Debug\DumpHelper.pdb
